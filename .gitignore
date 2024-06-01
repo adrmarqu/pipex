@@ -1,0 +1,9 @@
+.
+..
+.DS_Store
+pipex
+*.o
+a.out
+*.swp
+infile
+outfile
